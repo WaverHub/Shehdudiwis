@@ -1,0 +1,11 @@
+local Games = {
+    [4777817887] = "https://raw.githubusercontent.com/JoshSheesh/Waver109/refs/heads/main/Shegmashegma",
+    [111958650] = "https://raw.githubusercontent.com/JoshSheesh/Waver-9/refs/heads/main/Sigma%20Idk%20Shit",
+    [994732206] = "https://raw.githubusercontent.com/JoshSheesh/Waver-9Ofi/refs/heads/main/basl-1.txt",
+    [66654135] = "https://raw.githubusercontent.com/JoshSheesh/Waver9292882/refs/heads/main/NeggaGame",
+    [189707] = "https://github.com/JoshSheesh/Waver-9Ofi/blob/main/RandomShitAgainNigga",
+    [189707] = "https://github.com/JoshSheesh/Waver-9Ofi/blob/main/RandomShitAgainNigga",
+    [6447798030] = "https://raw.githubusercontent.com/JoshSheesh/Waver-/refs/heads/main/RandomShitIdkWhy?token=GHSAT0AAAAAACW45P53LUYDUWID3SIGXNHIZYASCXA",
+}
+
+return Games
